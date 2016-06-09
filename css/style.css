@@ -1,0 +1,48 @@
+nav{
+  margin-left: 250px;
+  margin-top: 30px;
+  font-size: 18px;
+}
+h1{
+  font-size: 65;
+  font-family: cursive;
+}
+h2{
+  padding-top: 10px;
+  font-family: cursive;
+}
+blockquote{
+  font-size: 20;
+  font-style: italic;
+  font-family: monospace;
+}
+.nav_list{
+  display: inline;
+  padding-right: 5px;
+}
+textarea{
+  margin-bottom: 10px;
+}
+a{
+  color:black;
+  text-decoration: none;
+  font-weight: bold;
+}
+a:hover{
+  text-decoration: underline;
+  color: red;
+}
+.book{
+  margin: 5px 50px 20px 40px;
+}
+.txt{
+  font-size: 15px;
+  margin-bottom: 40px;
+}
+.social{
+display: inline;
+}
+.social img:hover{
+  width: 60px;
+  height: 60px;
+}
